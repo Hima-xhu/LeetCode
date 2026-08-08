@@ -4,13 +4,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Hima-xhu/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Hima-xhu/LeetCode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Hima-xhu/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Hima-xhu/LeetCode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Hima-xhu/LeetCode/tree/master/0383-ransom-note) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Hima-xhu/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
