@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Hima-xhu/LeetCode/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0228-summary-ranges](https://github.com/Hima-xhu/LeetCode/tree/master/0228-summary-ranges) |
 <!---LeetCode Topics End-->
