@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Hima-xhu/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Hima-xhu/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hima-xhu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Hima-xhu/LeetCode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Hima-xhu/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Hima-xhu/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hima-xhu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Hima-xhu/LeetCode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Hima-xhu/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Hima-xhu/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Hima-xhu/LeetCode/tree/master/0414-third-maximum-number) |
 ## Array
 |  |
@@ -33,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Hima-xhu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Hima-xhu/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
